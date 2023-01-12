@@ -1,4 +1,4 @@
-<img src="https://pin.it/3zx215g" alt="Banner"/>
+<img src="https://i.ibb.co/1nssz77/032ab4621f479622f92218b1b42dbaf7.jpg" alt="Banner"/>
 <h1 align="center">Hi 👋, I'm Dogan</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
